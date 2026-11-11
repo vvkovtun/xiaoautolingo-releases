@@ -6,7 +6,7 @@ Translates the Chinese labels of the Xiaomi car app (Mi Auto) right on your phon
 
 **Not affiliated with Xiaomi. / Не пов'язано з Xiaomi.**
 
-- Works on the phone: built-in dictionary + Google ML Kit (on-device text recognition and translation). Nothing is sent or collected — see [PRIVACY_POLICY.md](PRIVACY_POLICY.md).
+- Works on the phone: built-in dictionary + Google ML Kit (on-device text recognition and translation). Labels, captures and translations never leave the phone — see [PRIVACY_POLICY.md](PRIVACY_POLICY.md).
 - Install: Google Play (coming soon). No APK here.
 
 ## How to start / Як почати
