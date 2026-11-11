@@ -17,7 +17,7 @@ XiaoAutoLingo (package `link.xiaodroid.xiaoautolingo`) translates the Chinese la
 Turn the service off at any time in Android Settings → Accessibility → XiaoAutoLingo, or with the switch in the app. Uninstalling removes all app data.
 
 ## Contact
-kovtunvadim@gmail.com
+xiaodroidlink@lifestyle.salon
 
 ---
 
