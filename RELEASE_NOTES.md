@@ -1,5 +1,11 @@
 # Release notes
 
+## 1.03 (8) — 2026-11-11
+- Translations sit exactly on the Chinese text of the Car tab and its pages, without covering icons, numbers or switches. / Переклад стоїть точно на китайському тексті вкладки «Авто» та її сторінок і не закриває значки, числа й перемикачі.
+- Translations move together with the list while scrolling instead of disappearing. / Під час прокрутки переклад їде разом зі списком, а не зникає.
+- Pages opened again show translations at once. / На вже відкритих сторінках переклад з'являється одразу.
+- About 180 new labels: schedule, keys, security, fridge, trips, vehicle management, configuration, benefits, climate, charging map, parking. / Близько 180 нових написів: розклад, ключі, безпека, холодильник, поїздки, керування авто, комплектація, пільги, клімат, карта зарядок, паркування.
+
 ## 1.02 (7) — 2026-11-11
 - The main screen shows at once whether translation works: a red card with step-by-step instructions to turn on the accessibility service, a green one when all is set. / Головний екран одразу показує, чи працює переклад: червона картка з покроковою інструкцією, зелена — усе готово.
 - "Open Mi Auto" warns if translation is not on yet. / «Відкрити Mi Auto» попереджає, якщо переклад ще не ввімкнено.
