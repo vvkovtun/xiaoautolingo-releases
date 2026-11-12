@@ -1,5 +1,12 @@
 # Release notes
 
+## 1.04 (9) — 2026-11-12
+- "Keep translation running" card: on Xiaomi, Autostart and Battery no-restrictions buttons so the system doesn't turn translation off. / Картка «Щоб переклад не зникав»: на Xiaomi — кнопки «Автозапуск» і «Батарея без обмежень».
+- Translations move with the text while scrolling on every page, no blinking after it stops. / Під час прокрутки переклад їде разом з текстом на всіх сторінках, без блимання після зупинки.
+- Button panels on Car and Edit: labels in place, one font size, correct after drag-reordering. / Панелі кнопок на «Авто» і «Редагувати»: підписи на своїх місцях, одним шрифтом, правильні після перетягування.
+- Key fob instructions fully translated; long sentences wrap. / Інструкція до брелока перекладена повністю, довгі речення переносяться.
+- New labels: services, maintenance, insurance, charging networks. / Нові написи: сервіси, ТО, страхування, зарядні мережі.
+
 ## 1.03 (8) — 2026-11-11
 - Translations sit exactly on the Chinese text of the Car tab and its pages, without covering icons, numbers or switches. / Переклад стоїть точно на китайському тексті вкладки «Авто» та її сторінок і не закриває значки, числа й перемикачі.
 - Translations move together with the list while scrolling instead of disappearing. / Під час прокрутки переклад їде разом зі списком, а не зникає.
