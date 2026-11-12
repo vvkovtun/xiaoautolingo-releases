@@ -1,5 +1,8 @@
 # Release notes
 
+## 1.05 (10) — 2026-11-12
+- Version number at the top of the screen next to the name. / Номер версії вгорі екрана поруч із назвою.
+
 ## 1.04 (9) — 2026-11-12
 - "Keep translation running" card: on Xiaomi, Autostart and Battery no-restrictions buttons so the system doesn't turn translation off. / Картка «Щоб переклад не зникав»: на Xiaomi — кнопки «Автозапуск» і «Батарея без обмежень».
 - Translations move with the text while scrolling on every page, no blinking after it stops. / Під час прокрутки переклад їде разом з текстом на всіх сторінках, без блимання після зупинки.
