@@ -1,5 +1,8 @@
 # Release notes
 
+## 1.06 (11) — 2026-11-13
+- Input fields stay visible: what you type (e.g. a phone number) is no longer covered by a translation. / Поля вводу не закриваються перекладом: введене (наприклад, номер телефону) видно.
+
 ## 1.05 (10) — 2026-11-12
 - Version number at the top of the screen next to the name. / Номер версії вгорі екрана поруч із назвою.
 
